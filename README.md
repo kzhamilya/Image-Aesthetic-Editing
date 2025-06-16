@@ -25,3 +25,5 @@ In order to run, you must install following dependencies:
 pip install torch torchvision diffusers transformers accelerate
 pip install git+https://github.com/facebookresearch/segment-anything.git
 pip install pillow tkinter
+
+you`re also gonna need sam_vit_b.pth: https://huggingface.co/segments-arnaud/sam_vit_b/blob/f38484d6934e5d2b555b1685d22d676236455685/sam_vit_b_01ec64.pth
